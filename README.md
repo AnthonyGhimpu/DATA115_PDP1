@@ -13,5 +13,3 @@ I gathered all of the data sets for five different datasets per year for the # o
 
 # Visualization
 
-
-![Main_Visualization](https://user-images.githubusercontent.com/72293385/101267714-a3ad9a80-3710-11eb-916e-05d88a4496ff.PNG)
