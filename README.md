@@ -21,6 +21,20 @@ With the results that I got from the main visualization scatterplot, I decided t
 
 ![SplitPy](https://user-images.githubusercontent.com/72293385/101268207-7e6f5b00-3715-11eb-8b84-2a2fc108339b.PNG)
 
-The catagorical way I split the data up would be all three regions in Washington, and the counties that lay in the Western, Central, and Eastern parts of the state. I then calculated the correlations and made corresponding scatterplots for each region...
+The catagorical way I split the data up would be all three regions in Washington, and the counties that lay in the Western, Central, and Eastern parts of the state. I then calculated the correlations and made corresponding scatterplots with line of best fit for each region...
+
+![WesternWa](https://user-images.githubusercontent.com/72293385/101268299-4d435a80-3716-11eb-93bf-fc9ac0350f36.PNG)
+
+Western Washington seems to have a positive trend with not that much significance due to the many marginal points that lie on the x-axis, derouting the line of best fit, and making it flatter. Many of the counties in the Western region have a good portion of extremely got days, but there seems to not be as many # of fires, influencing the result given. There could be many explanations to this, such as more humid weather because of the coast or other reasons for why this visualization is the way it is.
+
+![CentralWa](https://user-images.githubusercontent.com/72293385/101268302-503e4b00-3716-11eb-8948-d2a345c59e41.PNG)
+
+Central Washington has a stronger positive trend, but that may be because that there are not as many counties in Central Washington than the other split datasets. However, it could potentially make for other stronger conclusions if more information is given for this region.
+
+![EasternWa](https://user-images.githubusercontent.com/72293385/101268301-4e748780-3716-11eb-886b-4299804144f5.PNG)
+
+Eastern Washington has a negative trend, but again, it is not enough to come up with an accurate conclusion as many of the data points are marginalized on the x-axis. 
+
+Overall, I think many of these split datasets can say a lot when it comes to the gernalization aspect in each set, as each region has different settings, such as amount of trees, and the levels of humidity that can influence the # of fires in each region. The use of more data would be a better solution in coming up with a more accurate conclusion.
 
 
