@@ -12,5 +12,9 @@ I gathered all of the data sets for five different datasets per year for the # o
 ![main](https://user-images.githubusercontent.com/72293385/101267493-2e40ca80-370e-11eb-9b42-5131d6d479e4.PNG)
 
 # Visualization
+For my main visualization, I decided to go with a scatterplot in order to see the distribution and clustering of the two variables. I also added a line of best fit in oder to get a better idea of the trend that the scatterplot has, and also show the correlation that the dataset has. This result did not fit my hypothesis, as the trend seems to be negative and consist of a lot of marginal data points on the x-axis. The slope of the line is -0.18 AKA the correlation, meaning, the two variables don't really have a link with each other, and this might be a sort of generalization error, which might need more analysis that is more in depth.
 
 ![Main_Visualization](https://user-images.githubusercontent.com/72293385/101267880-a3ae9a00-3712-11eb-8146-ab4954e0d5b5.PNG)
+
+# Analysis
+
