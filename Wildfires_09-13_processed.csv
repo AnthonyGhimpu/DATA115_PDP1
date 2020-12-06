@@ -1,40 +1,40 @@
-﻿     County Name  # of Fires
-0          Adams           1
-1         Asotin           3
-2         Benton           4
-3         Chelan          38
-4        Clallam           0
-5          Clark           0
-6       Columbia           0
-7        Cowlitz           0
-8        Douglas           6
-9          Ferry          11
-10      Franklin           1
-11      Garfield           1
-12         Grant           5
-13  Grays Harbor           0
-14        Island           0
-15     Jefferson           2
-16          King           0
-17        Kitsap           0
-18      Kittitas          20
-19     Klickitat          12
-20         Lewis           2
-21       Lincoln           2
-22         Mason           1
-23      Okanogan          32
-24       Pacific           0
-25  Pend Oreille           0
-26        Pierce           0
-27      San Juan           0
-28        Skagit           0
-29      Skamania           1
-30     Snohomish           1
-31       Spokane           0
-32       Stevens           2
-33      Thurston           0
-34     Wahkiakum           0
-35   Walla Walla           2
-36       Whatcom           3
-37       Whitman           0
-38        Yakima          15
+﻿	County Name	# of Fires
+0	Adams	0.2
+1	Asotin	0.6
+2	Benton	0.8
+3	Chelan	7.6
+4	Clallam	0.0
+5	Clark	0.0
+6	Columbia	0.0
+7	Cowlitz	0.0
+8	Douglas	1.2
+9	Ferry	2.2
+10	Franklin	0.2
+11	Garfield	0.2
+12	Grant	1.0
+13	Grays Harbor	0.0
+14	Island	0.0
+15	Jefferson	0.4
+16	King	0.0
+17	Kitsap	0.0
+18	Kittitas	4.0
+19	Klickitat	2.4
+20	Lewis	0.4
+21	Lincoln	0.4
+22	Mason	0.2
+23	Okanogan	6.4
+24	Pacific	0.0
+25	Pend Oreille	0.0
+26	Pierce	0.0
+27	San Juan	0.0
+28	Skagit	0.0
+29	Skamania	0.2
+30	Snohomish	0.2
+31	Spokane	0.0
+32	Stevens	0.4
+33	Thurston	0.0
+34	Wahkiakum	0.0
+35	Walla Walla	0.4
+36	Whatcom	0.6
+37	Whitman	0.0
+38	Yakima	3.0
