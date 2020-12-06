@@ -38,5 +38,5 @@ Eastern Washington has a negative trend, but again, it is not enough to come up 
 Overall, I think many of these split datasets can say a lot when it comes to the gernalization aspect in each set, as each region has different settings, such as amount of trees, and the levels of humidity that can influence the # of fires in each region. The use of more data would be a better solution in coming up with a more accurate conclusion.
 
 # Descriptions of Code and Materials
-The raw data was collected from the sources described above and are uploaded in .csv form as Extremely_Hot_Days 2009-2013 and Wildfires_09-13. The processed data consists of relevent columns and county names by grouping as 
+The raw data was collected from the sources described above and are uploaded in .csv form as Extremely_Hot_Days 2009-2013 and Wildfires_09-13. The processed data consists of relevent columns and county names by grouping is uploaded as main.csv and the notebook use to make all of the visualizations and processing is uploaded as Personal Dataset Project Visualization.ipynb.
 
