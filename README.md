@@ -17,4 +17,5 @@ For my main visualization, I decided to go with a scatterplot in order to see th
 ![Main_Visualization](https://user-images.githubusercontent.com/72293385/101267880-a3ae9a00-3712-11eb-8146-ab4954e0d5b5.PNG)
 
 # Analysis
+With the results that I got from the main visualization scatterplot, I decided to come up with a different approach in analyzing the data that I have. I decided to split the data up into three different dataframes in order to come up with a more specific conclusion of the data. The catagorical way I split the data up would be all three regions in Washington, and the counties that lay in the Western, Central, and Eastern parts of the state. I then calculated the correlations and made corresponding scatterplots for each region...
 
